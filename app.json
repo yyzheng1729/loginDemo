@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#cc3333",
+        "navigationBarTitleText": "授权登录",
+        "navigationBarTextStyle": "black"
+    }
+}
